@@ -15,3 +15,6 @@ gcc compile.c -o compile
 ./compile \[file_name]                       
 gcc a.c -o a                     
 ./a      
+
+# note
+A really fun brainfuck program to test this with is the mandlebrot set printer found at https://github.com/erikdubbelboer/brainfuck-jit/blob/master/mandelbrot.bf. 

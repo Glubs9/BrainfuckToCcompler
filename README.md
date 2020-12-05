@@ -1,6 +1,6 @@
 # BrainfuckToCcompler
 fun little project I did while learning c                   
-(i'm just realising now that the name was supposed to be BrainfuckToCcomp*i*ler
+(i'm just realising now that the name was supposed to be BrainfuckToCcomp**i**ler)
 
 # Motivation
 I was learning c for fun and decided that this would be a good warmup project. 
